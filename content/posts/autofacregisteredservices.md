@@ -1,7 +1,9 @@
 ---
 title: "Autofac Registered Services"
 date: 2017-06-21T21:13:03Z
-draft: true
+draft: false
+categories : ["Development"]
+tags: ["cs"]
 ---
 
 I was trying to debug and issue with Autofac this week I wanted to be able to display the services that had been registered, more for peace of mind that this wasn't the issue really.
