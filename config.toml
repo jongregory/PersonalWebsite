@@ -4,6 +4,7 @@ title = "Jon Gregory"
 theme = "minimal"
 #disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+pygmentsUseClasses=true
 
 [params]
     author = "Jon Gregory"
@@ -23,14 +24,19 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.main]]
-    url = "/cv/"
-    name = "CV"
+    url = "/about/"
+    name = "About"
     weight = 2
 
 [[menu.main]]
-    url = "/blogs/"
-    name = "Blog"
+    url = "/posts/"
+    name = "Posts"
     weight = 3
+
+[[menu.main]]
+    url = "/pages/"
+    name = "Pages"
+    weight = 4
 
 
 
