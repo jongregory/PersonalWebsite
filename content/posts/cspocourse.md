@@ -1,7 +1,8 @@
 ---
 title: "Certified Scrum Product Owner Course"
 date: 2016-10-16T19:15:45Z
-draft: true
+draft: false
+tags: ["agile","training"]
 ---
 
 I attended the Certified Scrum Product Owner course this month run by [Agil8](https://www.agil8.com/ "Agil8").

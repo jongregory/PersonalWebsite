@@ -1,7 +1,8 @@
 ---
 title: "Sql Server Management Studio Freezing On Start Up"
 date: 2016-04-06T09:05:41Z
-draft: true
+draft: false
+tags: ["tips","sql server"]
 ---
 
 For a few weeks I had a really annoying issue with Sql Server Management Studio freezing on start up, this happened a few times at crucial moments and caused me delays.

@@ -1,7 +1,8 @@
 ---
 title: "Getting Started with Xamarin - Setup"
 date: 2016-05-02T21:05:02Z
-draft: true
+draft: false
+tags: ["xamarin","cs"]
 ---
 
 I wanted to learn [Xamarin](https://www.xamarin.com/) for a while and with recent purchase by Microsoft and inclusion in Visual Studio now was the time.

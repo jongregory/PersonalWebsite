@@ -1,7 +1,8 @@
 ---
 title: "Why I use SonarQube...."
 date: 2016-02-23T18:02:14Z
-draft: true
+draft: false
+tags: ["sonarqube","quality","architecture"]
 ---
 
 **Why I use SonarQube...** 

@@ -2,6 +2,7 @@
 title: "New Website Checklist"
 date: 2017-12-29T12:03:31Z
 draft: true
+tags: ["checklist","productivity"]
 ---
 
 Some of the Big Hitters to check when starting a new website project

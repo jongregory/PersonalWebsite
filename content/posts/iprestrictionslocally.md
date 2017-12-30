@@ -1,7 +1,8 @@
 ---
 title: "Testing Web Config IP Restrictions Locally"
 date: 2017-01-27T10:07:26Z
-draft: true
+draft: false
+tags: ["tips","testing","pentesting"]
 ---
 
 I was up against a hard deadline recently and needed to test some IP restrictions locally before deploying to a dev server. I have never had to do this locally before and had to jump through a few hoops to get it working. 
@@ -10,6 +11,7 @@ We wanted to put the restrictions in the config so they are applied to any envir
 
 The sample xml below shows a configuration where all IP's are blocked except the ones listed, it is possible to invert this with the **allowUnlisted** attribute being set to true. When this is the case the IP's in the list are not allowed to access the site.
 
+{{< highlight xml "linenos=table" >}}
     <security>
       <ipSecurity allowUnlisted="false" denyAction="Forbidden">
         <!\-\- this line blocks everybody, except those listed below -->
@@ -21,6 +23,7 @@ The sample xml below shows a configuration where all IP's are blocked except the
         <add allowed="true" ipAddress="0.0.0.0" subnetMask="255.255.0.0" />
       </ipSecurity>
     </security>
+{{< / highlight >}}
 
 This iis.net article details the options for IP configuration restriction as well as other options [https://www.iis.net/configreference/system.webserver/security/ipsecurity?showTreeNavigation=true#005](https://www.iis.net/configreference/system.webserver/security/ipsecurity?showTreeNavigation=true#005)
 

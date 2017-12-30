@@ -1,7 +1,8 @@
 ---
 title: "Hyper-V Virtual Machine Copy"
 date: 2016-06-16T20:06:41Z
-draft: true
+draft: false
+tags: ["tips","infrastructure","hyperv"]
 ---
 
 I needed to evaluate a several database tools against an application I was writing,  so it made sense to create VM with the application and then copy it. Looking into Hyper-V  there was no option to clone a Virtual Machine without puchasing a tool. 

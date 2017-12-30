@@ -1,7 +1,8 @@
 ---
 title: "Kentico CMS.Tests Library - Unit Testing for Kentico Objects"
 date: 2016-10-12T19:17:48Z
-draft: true
+draft: false
+tags: ["testing","kentico"]
 ---
 
 _As i was writing this post it was added to my works blog too - with much better formatting! [http://www.mmtdigital.co.uk/blog/october-2016/unit-testing-for-kentico-objects?platform=hootsuite](http://www.mmtdigital.co.uk/blog/october-2016/unit-testing-for-kentico-objects?platform=hootsuite "MMT Digital Blog")_
@@ -33,6 +34,8 @@ public class IamAUnitTest : UnitTests
 
  Once that is set up it is a simple case of creating Fake<> for each Kentico Object and its provider that the test requires; 
 
+{{< highlight csharp "linenos=table" >}}
+
 `Fake<AddressInfo, AddressInfoProvider>()
                 .WithData(new AddressInfo()
                 {
@@ -50,6 +53,8 @@ public class IamAUnitTest : UnitTests
                         AddressCity = "AddressCity",
                         AddressZip = "Postcode"
                     });`
+                    
+{{< / highlight >}}
 
 You can provide as many objects as you want on the .WithData() method, and then the fake provider will let you look up on ids providing realistic scenarios
 

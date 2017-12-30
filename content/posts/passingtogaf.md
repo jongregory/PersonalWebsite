@@ -2,6 +2,7 @@
 title: "Passing TOGAF 9.1 Certification"
 date: 2015-12-01T19:02:42Z
 draft: false
+tags: ["togaf","architecture"]
 ---
 
 After a four day training course with http://enterprisearchitects.com/ and then two weeks of hard revision I am very relived to have passed both the TOGAF 9.1 Level 1 and 2 certification exams. This post is about why I decided to take the TOGAF exams and some useful resources and techniques  I found invaluable

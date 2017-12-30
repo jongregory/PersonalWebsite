@@ -1,7 +1,8 @@
 ---
 title: "ASP.Net Securing Configuration"
 date: 2016-08-15T15:08:45Z
-draft: true
+draft: false
+tags: ["tips","security","pentesting"]
 ---
 
 The management of configuration is not the most exciting aspects of development and often one where mistakes are made. The aim with these techniques is to try and strike a balance between security without affect development velocity. 

@@ -1,7 +1,8 @@
 ---
 title: "Session State being lost in Web Farm"
 date: 2016-06-21T16:06:44Z
-draft: true
+draft: false
+tags: ["tips","web","sesssion state"]
 ---
 
 Investigating and issue with session data being lost on a load balance ASP.Net website the other day, users we''re losing items from a basket when bouncing between servers.

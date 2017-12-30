@@ -1,7 +1,8 @@
 ---
 title: "Consistent Redirects and Session State"
 date: 2016-11-29T18:49:33Z
-draft: true
+draft: false
+tags: ["tips","security"]
 ---
 
 One thing I learnt from experience to check when getting unexpected behaviour with sessions in ASP.Net is the redirects. I have worked on sites where the HTTP and HTTPS redirects are inconsistent and this can cause issues.
@@ -16,7 +17,8 @@ These rules can be put into IIS but these can be lost in some cases when the web
 
 Here is an example web.config entry for http to https and non-www to www redirects;
 
-`   <rewrite>
+{{< highlight xml>}}
+   <rewrite>
       <rules>
         <rule name="Redirect landing request to trailing slash" stopProcessing="true">
           <match url="landing\\/(.*\[^\\/\])$" />
@@ -40,4 +42,6 @@ Here is an example web.config entry for http to https and non-www to www redirec
           <action type="Redirect" url="https://www.domain.com/{R:0}" />
         </rule>
       </rules>
-    </rewrite>`
+    </rewrite>
+    
+{{< / highlight >}}

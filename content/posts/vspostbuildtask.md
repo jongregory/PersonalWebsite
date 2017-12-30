@@ -1,7 +1,8 @@
 ---
 title: "Visual Studio Website Projects - Restore References without a build"
 date: 2016-01-29T16:01:37Z
-draft: true
+draft: false
+tags: ["vs","tips"]
 ---
 
  I recently had to deal with a multiple missing references issue on the CI Build Server for Visual Studio website project. 
@@ -24,8 +25,13 @@ The solution to the two reference scenarios was quite simple in the end;
 *   Add the following line to the ‘Post-build event command line’
 
                
+{{< highlight csharp "linenos=table" >}}
+
+
 
 xcopy /Y "$(ProjectDir)$(OutDir)$(TargetFileName)" "$(ProjectDir)..\\CMS\\Bin"
+
+{{< / highlight >}}
 
 Using this technique means the project becomes responsible for putting the output dll into the website so the website does need to be compiled , and nothing needs to be configured on the CI server. If the project is being built in Visual Studio the **/Y** option forces and overwrite so the build does not fail.
 
@@ -33,6 +39,10 @@ Using this technique means the project becomes responsible for putting the outpu
 
   
 Add the following Powershell into a script in the website project root directory and committed to source control.
+
+{{< highlight powershell "linenos=table" >}}
+
+
 
 $scriptpath = $MyInvocation.MyCommand.Path
 $dir = Split-Path $scriptpath
@@ -44,6 +54,8 @@ $filename = Split-Path $content -leaf
 Write-Host "Restoring File : "  $dir\$content " To " $dir\\bin\$filename
 Copy-Item $dir\$content $dir\\bin\$filename -force
 }
+
+{{< / highlight >}}
 
 This script was then run in the CI process after the package restore , it finds the ***.dll.refresh** files and copies them out of the packages folder and into the **\\bin** of the website project.
 

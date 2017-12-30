@@ -1,7 +1,8 @@
 ---
 title: "Deploying Changes with Kentico"
 date: 2017-03-16T20:48:19Z
-draft: true
+draft: false
+tags: ["kentico","devops"]
 ---
 
 Modern development techniques involve moving change between environments, a typical life cycle is Local -> Development -> QA/Staging -> Production. Being able to package up a set of changes, apply a version number, and then migrate move that along the environment path is crucial to a resilient and reliable development process.

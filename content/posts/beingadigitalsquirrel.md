@@ -1,7 +1,8 @@
 ---
 title: "Being a Digital Squirrel"
 date: 2016-12-26T08:58:32Z
-draft: true
+draft: false
+tags: ["lifehacks","productivity"]
 ---
 
 I have noticed that over the last four years I have developed a habit, a habit of squirrelling away information. I have become a hoarder of digital information, a digital squirrel.

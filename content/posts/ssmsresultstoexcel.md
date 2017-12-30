@@ -1,7 +1,8 @@
 ---
 title: "Sql Server Management Studio Results to Excel"
 date: 2016-07-27T21:07:19Z
-draft: true
+draft: false
+tags: ["tips","sql server"]
 ---
 
 I need to do some quick analysis on a error log table, so was running a grouping query on the log table.
@@ -14,4 +15,8 @@ This post had the answer, [https://www.mssqltips.com/sqlservertip/3416/line-spl
 
 With SQL 2012 the line feeds and carriage returns are preseved  and needed to be filtered out in the query
 
-`SELECT COUNT(*) as count, replace(replace(Message, char(10), ''''), char(13), '''') as ''Message'' FROM Log`
+{{< highlight sql >}}
+
+SELECT COUNT(*) as count, replace(replace(Message, char(10), ''''), char(13), '''') as ''Message'' FROM Log
+
+{{< / highlight >}}

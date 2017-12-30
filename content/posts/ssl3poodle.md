@@ -1,7 +1,8 @@
 ---
 title: "SSL V 3.0 - Disable Poodle Threats on IIS"
 date: 2016-08-12T15:08:13Z
-draft: true
+draft: false
+tags: ["tips","security","pentesting"]
 ---
 
 On a recent PEN test the SSL V3 POODLE bug was picked up on the server [http://www.symantec.com/connect/blogs/ssl-30-vulnerability-poodle-bug-aka-poodlebleed](http://www.symantec.com/connect/blogs/ssl-30-vulnerability-poodle-bug-aka-poodlebleed)

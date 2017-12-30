@@ -1,7 +1,8 @@
 ---
 title: "Binary Search of a Repository"
 date: 2017-04-21T13:29:24Z
-draft: true
+draft: false
+tags: ["tips","productivity"]
 ---
 
 Sometimes an innocuous change can cause issues on a project at a later date, especially in scenarios when working with an application such as a CMS with lots of black box code.
