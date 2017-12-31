@@ -1,6 +1,6 @@
 ---
 title: "Faking and Seeding Data with Bogus"
-date: 2017-12-29T10:10:43Z
+date: 2017-02-05T10:10:43Z
 draft: false
 tags: ["testing","productivity"]
 ---

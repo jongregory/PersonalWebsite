@@ -1,6 +1,6 @@
 ---
 title: "Project Stratergies Check list"
-date: 2017-12-29T12:05:14Z
+date: 2017-11-24T12:05:14Z
 draft: true
 tags: ["checklist","productivity"]
 ---

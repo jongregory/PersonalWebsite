@@ -1,6 +1,6 @@
 ---
 title: "Staying Frosty"
-date: 2017-12-29T12:02:44Z
+date: 2017-08-14T12:02:44Z
 draft: true
 tags: ["tips","productivity","lifehacks"]
 ---
