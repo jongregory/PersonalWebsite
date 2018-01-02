@@ -8,7 +8,7 @@ pygmentsUseClasses=true
 
 [params]
     author = "Jon Gregory"
-    description = "Developer, Technical Architect, Lapsed Mountain Biker & Runner"
+    description = "Technical Architect"
     githubUsername = "jongregory"
     accent = "teal"
     showBorder = true
