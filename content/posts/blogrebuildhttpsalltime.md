@@ -9,7 +9,7 @@ tags: ["security","blog"]
 
 Also with the push towards HTTPS for all pages and chrome marking pages insecure in 2017, [https://security.googleblog.com/2016/09/moving-towards-more-secure-web.html](https://security.googleblog.com/2016/09/moving-towards-more-secure-web.html "https://security.googleblog.com/2016/09/moving-towards-more-secure-web.html") I wanted to upgrade to HTTPS. The best way to do this was to use a [Lets Encrypt](https://letsencrypt.org/ "Lets Encrypt") certificate which is a free automated certificate authority.
 
-**Clean Installation of BlogEngine.Net**
+### Clean Installation of BlogEngine.Net
 
 This was the easiest part simply download the zip file from [http://blogengine.codeplex.com/releases/view/621156](http://blogengine.codeplex.com/releases/view/621156 "http://blogengine.codeplex.com/releases/view/621156"), then extract the files. The web.config needed to be updated to use the DbBlogProvider and a connection string added. 
 
@@ -46,7 +46,7 @@ The Membership Provider and Role Provider also needed to be updated to use the d
 
 Once the blog was started up the admin section had a link to update to 3.3.5, which was upgraded automatically from the admin section without me having to touch a file. Very slick.
 
-**Adding LetsEncrypt**
+### Adding LetsEncrypt
 
 I have been wanting to try LetsEncrypt out for a while and this was ideal for my blog, I wasn't sure how to get a certificate onto a Azure WebApp using a custom domain. After some googling this Azure extension stood out a mile [https://github.com/sjkp/letsencrypt-siteextension](https://github.com/sjkp/letsencrypt-siteextension "https://github.com/sjkp/letsencrypt-siteextension"). Not only does it provide a UI for adding the certificate it also sets up a web job to refresh them when they expire. The LetsEncrypt certificates expire after 90 days , this is for security and to encourage automation to renew the licences. [LetsEncrypt Expiration Notes](https://letsencrypt.org/2015/11/09/why-90-days.html "LetsEncrypt Expiration Notes")
 
@@ -54,7 +54,7 @@ I found this [great detailed blog post](https://gooroo.io/GoorooTHINK/Article/16
 
 I found the extension failed on the last step the first time it ran, then I ran again and it worked. Wasn't able to find out why and may have just been a azure refresh speed on one of the set up steps
 
-**Add a https redirect (Skipped down to the enforce HTTPS section)**
+### Add a https redirect (Skipped down to the enforce HTTPS section)
 
 Again a nice easy one, just need to add the redirect rule into the web.config this [Blog Post on Azure](https://azure.microsoft.com/en-gb/documentation/articles/web-sites-configure-ssl-certificate/ "Blog Post on Azure ") covers how to add a certificate to a custom domain, as I had done this with the Azure Extension I just needed to skip to the 'Enforce HTTPS section'
 
@@ -77,7 +77,7 @@ Adding the following section in the <system.webserver> section of the web.config
     
 {{< / highlight >}}
 
-**Migrate old data **
+### Migrate old data 
 
  The final step was to migrate the data over from the old blog, I had created a new SQL Azure Database so just needed to take from three tables. be\_Posts, be\_Categories and be_PostCategory. I wrote the slightly funky query to generate a formatted insert statement and ran in SSMS with a results to text. Then moved the query over to the new database. It worked for all but three posts where the post data exceeded the limit in the results to text of SSMS. As there were only three I moved those posts manually. Not the cleanest of solutions I admit but I wanted a fresh install of the blog software and to make future upgrades easier by using the default blog guid as the blog id.
 
@@ -120,7 +120,7 @@ SELECT
 GO
 {{< / highlight >}}
 
-** Conclusion**
+### Conclusion
 
 Writing this first post has been so much easier, the editor in 3.3.5 is much better and the ability to add links is far quicker. The code window has more formatting and is easier to edit, and code snippets can be added in directly. Although I still prefer the formatting of [http://hilite.me/](http://hilite.me/ "http://hilite.me/") .
 

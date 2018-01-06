@@ -21,7 +21,7 @@ The simplest way to manage change is to record the changes made to a Kentico Env
 
 There are situations when this maybe the only option available for example access to environments or applying a very small change to a legacy site, it is not a practical solution for a team of developers producing multiple changes.
 
-**Imports/Exports**
+### Imports/Exports
 
 The first of the automated tools is the Kentico Import/Export process which has been in Kentico since the early versions. This can be accessed from the Kentico Admin section and allows everything from a single object too full site to be extracted into a collection of data files. These files can then be imported into the required environments.
 
@@ -43,7 +43,7 @@ When using Content Staging it is important to turn it on as soon as possible so 
 
 By default Content Staging captures a wide range of change, and the tracked list can grow significantly over time. It is advisable to housekeep this list to only include required change. The tracked change is order dependant so a Create task must come before an Edit task for example. It is possible to programmatically filter out unrequired change so that managing the migrations becomes more efficient this document [https://docs.kentico.com/k9/custom-development/handling-global-events/excluding-content-from-staging-and-integration](https://docs.kentico.com/k9/custom-development/handling-global-events/excluding-content-from-staging-and-integration) describes the process in more detail.
 
-**Continuous Integration**
+### Continuous Integration
 
  Continuous Integration was introduced in version 9 and improved in version 10, this works on a similar principal to content staging in that changes are automatically tracked but differs in that this changes is serialized into xml files on the file system. These files can then be checked into the source control system and shipped with the rest of the file system changes. In the bin folder of the Kentico website is a command line tool that can be used to apply these change files to the database.
 
@@ -79,7 +79,7 @@ The [Kentico Delivery API](https://developer.kenticocloud.com/v1.0/docs/using-d
 
 When using Kentico Draft it is possible to move the file system changes via a CI pipeline and then move content via the Kentico Delivery API.
 
-**Future**
+### Future
 
 Content Staging and continuous Integration when used together have vastly improved the process of managing change between environments. This has facilitated the creation of continuous Integration and Delivery Pipelines for Kentico Projects.
 

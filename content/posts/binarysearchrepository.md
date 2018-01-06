@@ -21,6 +21,6 @@ This approach works well when there are no clues to what is causing the issue, a
 
 It is recommended to use this technique on a completely fresh checkout to maintain the integrity of the local repository.
 
-**Real World Scenario**
+### Real World Scenario
 
 On a recent project the webforms async setting had been set on the web forms master page in February. In May it was discovered that a Resource String helper provided by the CMS was not working. Using the binary search technique helped us to zero on this change and then understand why this had broken the resource code.

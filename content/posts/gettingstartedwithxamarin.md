@@ -9,7 +9,7 @@ I wanted to learn [Xamarin](https://www.xamarin.com/) for a while and with rece
 
 This blog is not meant to reinvent the wheel and there are many excellent guides out there on how to get started. This is my experience following the [MSDN setup documentation](https://msdn.microsoft.com/en-us/library/mt613162.aspx)  and the tweaks I had to make. As much of personal record as a blog post.
 
-**Issues I had along the way following the setup; **
+### Issues I had along the way following the setup; 
 
 Has errors  with the Andriod SDK after the initial install trying to create a new Android app, followed this blog to resolve. Had to launch the SDK Manager after install and run  to install the full SDK components
 

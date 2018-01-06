@@ -21,7 +21,7 @@ There are three test types available;
 2.  Integration Tests
 3.  Isolated Integration Tests
 
-**Unit Tests**
+### Unit Tests
 
 As you would expect these isolate the code from the database and allow for the tests to run quickly with provided fake data.
 
@@ -64,7 +64,7 @@ This has been really useful when testing the logic in custom methods without hav
 
 There is a full list of the fakeable Kentico Objects [here](http://devnet.kentico.com/getattachment/Articles/2014-04/Test-Automation-Possibilities-in-Kentico-8/Kentico8-FullyFakeableProviders.pdf "Fakeable Kentico Objects").
 
-**Integration Tests**
+### Integration Tests
 
 These allow the code to be run against database, but doesn't require a Kentico website. As long as all the required Kentico Binaries are referenced and an App.Config file with the database connection string.
 
@@ -77,13 +77,13 @@ public class IamAIntegrationTest : IntegrationTests
 {
 .....`
 
-**Isolated Integration Tests**
+### Isolated Integration Tests
 
 These tests are similar to the above integration tests, except it creates a copy of the database using [SQL Server 2012 Express LocalDB](https://msdn.microsoft.com/en-us/library/hh510202(v=sql.110).aspx "SQL Server 2012 Express LocalDB") to protect from any database writes affecting the integrity of the data. The local database get refreshed with each test so these will be slow to run, they are ideal for longer integration test perhaps on a nightly build.
 
 The logic can be tested against a clean seeded database for each test which will be repeatable on each run.
 
-**CMS Asserts**
+### CMS Asserts
 
  There is also a [CMS Assert Methods](https://devnet.kentico.com/docs/9_0/api/html/Methods_T_CMS_Tests_CMSAssert.htm "CMS Assert Methods") set of classes that allow Kentico Specific assertions, these can be used alongside the Test framework assertion provider. An example assertion taken from the Kentico articlet is the QueryEquals method, which  checks two  SQL statements are equal.
 

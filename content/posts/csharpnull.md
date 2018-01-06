@@ -17,7 +17,7 @@ So I put together a few simple samples of how to safely check for nulls and work
 
 Some of the samples are below.
 
-**Examples Ways to handle null values**
+### Examples Ways to handle null values
 
 _AS Operator_
 

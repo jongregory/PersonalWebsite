@@ -7,7 +7,7 @@ tags: ["checklist","productivity"]
 
 Some of the Big Hitters to check when starting a new website project
 
-**Images** 
+### Images
 
 Where from?
 
@@ -15,7 +15,7 @@ Naming Convention - How to match up to content 
 
 Size and Optimisation - Automatic / Manual
 
-**Content**
+### Content
 
 Where is the content coming from?
 
@@ -29,7 +29,7 @@ Which application owns the data - relationships between applications
 
 CQS - Content may be drawn from one environment, but commands (Orders etc) may need to be sent to another - Draw content from a production source for enhancement in a QA website but need to send Orders back into a QA/Test infrastructure. Seperate services are ideal for this
 
-**Payment Gateway**
+### Payment Gateway
 
 Segregate the code base for audit
 
@@ -37,7 +37,7 @@ Hardening - back buttons, refreshes drop outs etc
 
 Responsiveness
 
-**Migration**
+### Migration
 
 Is there an existing site
 
@@ -45,7 +45,7 @@ Are user being imported - passwords etc
 
 Is user / order history being imported
 
-**Housekeeping & Maintenance**
+### Housekeeping & Maintenance
 
 When can data be archive?
 
@@ -55,7 +55,7 @@ Inactive users and associated data
 
 Focus on getting a site out there - can lead to early failures.
 
-**Search**
+### Search
 
 How complicated?
 
