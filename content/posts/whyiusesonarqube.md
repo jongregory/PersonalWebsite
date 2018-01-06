@@ -5,7 +5,7 @@ draft: false
 tags: ["sonarqube","quality","architecture"]
 ---
 
-**Why I use SonarQube...** 
+### Why I use SonarQube...
 
 SonarQube [http://www.sonarqube.org/](http://www.sonarqube.org/) is a fantastic opensource tool for measuring code quality across multiple projects. I use it to provide an ''At-a-glance'' view of the size and quality of the projects I am involved in.
 
@@ -15,7 +15,7 @@ SonarQube provides Customisable dashboards , Historical Views, Multi Language Su
 
 I gave a 15 minute talk introducing SonarQube at my local usergroup DotNetNotts and the slides are here [http://www.slideshare.net/JonathanGregory4/code-quality-llightning-talk](http://www.slideshare.net/JonathanGregory4/code-quality-llightning-talk)
 
-**Useful Applications**
+### Useful Applications
 
 These are just some of the situations I have SonarQube useful in over the last few years.
 
@@ -28,7 +28,7 @@ These are just some of the situations I have SonarQube useful in over the last f
 *   Map a teams improvement over time
 *   Basis for code reviews
 
-**Running an Analysis**
+### Running an Analysis
 
 In order to get a project into SonarQube it is necessary to run an analysis application, this reads a Sonar-Project.Properties file in the root of the project.
 
@@ -53,7 +53,7 @@ The main advantage of this script is any developer can add a project to the conf
 
 I have put this script in GitHub as it maybe a useful base for others. [https://github.com/jongregory/SonarCaller](https://github.com/jongregory/SonarCaller)
 
-**Conclusion**
+### Conclusion
 
 SonarQube is very quick and easy to set up with no licence costs, there is a two minute getting started guide [http://docs.sonarqube.org/display/SONAR/Get+Started+in+Two+Minutes](http://docs.sonarqube.org/display/SONAR/Get+Started+in+Two+Minutes) and a more detailed set up from Microsoft projects [https://github.com/SonarSource-VisualStudio/sonar-.net-documentation](https://github.com/SonarSource-VisualStudio/sonar-.net-documentation)
 

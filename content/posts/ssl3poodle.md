@@ -11,7 +11,7 @@ To test a website this handy page reports on any url visible to the browser [ht
 
 I assumed this would be a setting in IIS but the advice from Microsoft is a quick registry edit - detailed in the ''Disable SSL 3.0 Server Software'' section in this article [https://technet.microsoft.com/library/security/3009008.aspx](https://technet.microsoft.com/library/security/3009008.aspx)
 
-**Disable SSL 3.0 in Windows****For Server Software**
+### Disable SSL 3.0 in Windows****For Server Software
 
 You can disable support for the SSL 3.0 protocol on Windows by following these steps:
 

@@ -7,7 +7,7 @@ tags: ["togaf","architecture"]
 
 After a four day training course with http://enterprisearchitects.com/ and then two weeks of hard revision I am very relived to have passed both the TOGAF 9.1 Level 1 and 2 certification exams. This post is about why I decided to take the TOGAF exams and some useful resources and techniques  I found invaluable
 
-**Why Study for TOGAF 9.1 Certification**
+### Why Study for TOGAF 9.1 Certification
 
 Having previously been a Senior Developer and then moving into a Technical Architect role means I am still close to the code.  I was very keen to improve my architecture modelling skills  with a framework certification. 
 
@@ -17,14 +17,14 @@ TOGAF is a Enterprise Architecture framework so has helped me understand how to 
 
 There are three main components of TOGAF I could see having immediate benefit to my current role.
 
-**The Architecture Development Model** - a set of guidelines and techniques for architecture development
+_The Architecture Development Model_ - a set of guidelines and techniques for architecture development
 
-**The Architecture Capability Framework**  - reference materials for establishing and architecture function in an enterprise
+_The Architecture Capability Framework_  - reference materials for establishing and architecture function in an enterprise
 
-**The Architecture Content Framework** - a location and classification mechanism for architectural output
+_The Architecture Content Framework_ - a location and classification mechanism for architectural output
 
 
-**Useful Resources**
+### Useful Resources
 
 I found the following invaluable to be able to pass the TOGAF certification exams
 
@@ -40,7 +40,7 @@ I did try the free questions on [The Open Arch](http://theopenarch.com/81-tests/
 
 Reading this [Exam Study Guide](https://nikansell.files.wordpress.com/2010/12/togaf_9_exam_study_guide.pdf) by Nik Ansell a really useful point to help navigate the level 2 exams was *The best technique for answering a long and sometimes overwhelming question like this, is to use the paper/scratch pad the testing centre provides. Write each answer down, then mark off which concern is addressed by each answer. The one that addresses all the concerns if obviously the right answer*
 
-**The Result**
+### The Result
 
 After all the hard work and travel I was very please to have passed with a overall mark of 81%, largely due to the course and the tips above.
 

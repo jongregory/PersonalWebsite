@@ -5,7 +5,7 @@ draft: false
 tags: ["tips","cs"]
 ---
 
-I have never consumed an RSS feed in code before and assumed it would be a bespoke process, but the **System.ServiceModel.Syndication **library has a everything you need in a few lines of code;
+I have never consumed an RSS feed in code before and assumed it would be a bespoke process, but the [System.ServiceModel.Syndication](https://msdn.microsoft.com/en-us/library/system.servicemodel.syndication(v=vs.110).aspx) library has a everything you need in a few lines of code;
 
 {{< highlight csharp "linenos=table" >}}
  string url = "http://blog.jongregory.net/syndication.axd";

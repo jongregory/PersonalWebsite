@@ -14,7 +14,7 @@ Looking at google there were two options;
 
 The following steps are how to do option 2 , note that this operation can only be performed once for each export. The export files can only be imported once, if you need to do multiple copies you will need to do another export for each import.
 
-**In the Hyper-V Manager**
+### In the Hyper-V Manager
 
 1 - Chose Export for the right hand side menu
 
@@ -28,7 +28,7 @@ The following steps are how to do option 2 , note that this operation can only b
 
 ![](http://blogjongregory.blob.core.windows.net/blogimages/HyperVCopy/HyperVExportingStatus.PNG)
 
-**Importing the exported Virtual Machine**
+### Importing the exported Virtual Machine
 
 1 - In the Hyper-V Manager select ''Import a Virtual Machine''
 

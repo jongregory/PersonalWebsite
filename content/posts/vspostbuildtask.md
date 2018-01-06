@@ -15,7 +15,7 @@ I needed a generic process where new nuget packages and class library projects c
 
 The solution to the two reference scenarios was quite simple in the end;
 
-**Scenario 1 – Adding a reference to a project in the visual studio solution**
+### Scenario 1 – Adding a reference to a project in the visual studio solution
 
 1.  Add the reference to the website as usual in Visual Studio by right clicking on the project 
 2.  In the Class Library project that is being referenced add a custom build step, this will push the dll to the website \\bin folder for each build on any machine.
@@ -35,7 +35,7 @@ xcopy /Y "$(ProjectDir)$(OutDir)$(TargetFileName)" "$(ProjectDir)..\\CMS\\Bin"
 
 Using this technique means the project becomes responsible for putting the output dll into the website so the website does need to be compiled , and nothing needs to be configured on the CI server. If the project is being built in Visual Studio the **/Y** option forces and overwrite so the build does not fail.
 
-**Scenario 2 – Referencing NuGet Packages in a Visual Studio Website**
+### Scenario 2 – Referencing NuGet Packages in a Visual Studio Website
 
   
 Add the following Powershell into a script in the website project root directory and committed to source control.
