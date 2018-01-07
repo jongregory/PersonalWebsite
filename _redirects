@@ -1,0 +1,3 @@
+# Redirect domain aliases to primary domain
+https://blog.jongregory.net/* https://www.jongregory.net/:splat 301!
+http://blog.jongregory.net/* https://www.jongregory.net/:splat 301!
