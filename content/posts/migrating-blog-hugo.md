@@ -2,6 +2,7 @@
 title: "Migrating my Blog to Hugo & Netlify"
 date: 2018-01-08T19:44:55Z
 draft: false
+tags: ["blog","productivity"]
 ---
 
 New Year, New Blog! I have never been very happy with my blog, it was very heavy weight a full ASP.Net based tool called BlogEngine.Net and a SQL Server database. There is nothing wrong with either of these but I didn't use most of the features.
