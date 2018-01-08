@@ -1,7 +1,7 @@
 ---
 title: "Passing MCSD App Builder & MCSE Azure Cloud & Infrastructure "
 date: 2017-12-23T12:06:14Z
-draft: true
+draft: false
 tags: ["checklist","productivity","cpd","certification"]
 ---
 
