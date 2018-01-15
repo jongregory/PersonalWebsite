@@ -11,7 +11,7 @@ Some of the Big Hitters to check when starting a new website project
 
 Images are crucial for any modern website, but I have sometimes found the process for managing the images and matching to content on the website can be overlooked. Some questions I always try and ask in the early stages of a new website project are;
 
-Where are images sourced from, is there an image management tool or are they manually uploaded? How will the images be refreshed? If they are being sourced from a external source what is the latency and can then by loaded into a CDN?
+Where are images sourced from, is there an image management tool or are they manually uploaded? How will the images be refreshed? If they are being sourced from an external source what is the latency and can then by loaded into a CDN?
 
 Matching up to the content - How will the images be matched to the location in the content, multiple product images for example. Can a naming convention be used and how should a missing image be handled gracefully?
 
@@ -55,29 +55,48 @@ The payment form will be under some form of PCI DSS regulation, the idea of sepa
 
 ### Migration
 
-Is there an existing site
+When a new site is being built it is more than often replacing an existing site. This site could possibly have user information, content, order history etc that users will expect to be in place when the use the new site.
 
-Are user being imported - passwords etc
+Some questions to ask during planning;
 
-Is user / order history being imported
+* Is there an existing site? what is the state of the data? Its there in interface or api to get the data in an out?
+* Is the user being imported? Do passwords meet the new security standards? Will the hashing or encryption support migration? 
+* Will user have to re-register on first login or reset password?
+* Is user / order history being imported? How much historical data should be brought across? Can a archived data service be used to display historical information to the user?
+* Go-live approach will it be big bang or parallel running? does data have to be synchronised between the incumbent and replacement systems and for how long?
 
 ### Housekeeping & Maintenance
 
-When can data be archive?
+Making sure a website self manages is very important to maintain performance and up time. Automatically clearing out working data and archiving ensures a clean and performant database. An extra consideration is there is a storage cost when using cloud hosting, so managing the data in expensive storage and putting other data in cheaper storage can help with the cost of runnig a cloud app.
 
-Logging Levels & retention
+Some questions worth asking;
 
-Inactive users and associated data
-
-Focus on getting a site out their - can lead to early failures.
+1. Which data can be archived and when? Will users require access of can it be offloaded to cheaper storage.
+2. What Logging Levels are required for who long and retention? Can logs be aggregated and put into cheaper storage
+3. What happens to Inactive users and associated data? Can accounts be automatically expired and removed? 
 
 
 ### Search
 
-How complicated?
+Search is a crucial element of any website, but depending on the tool being used can be a difficult fit with Agile development process. If the search tool has a limited feature set then this can be a blocker mid way through development forcing the adoption of a new tool.
 
-Result Count
+Some useful questions to ask;
 
-Performance
+1. How complex are the features required, over the development of the site? Will the chosen tool provide all these features? 
+2. Any special features required such as Result Count?
+3. What are the performance requirements for search?
+4. What Data is required? Where is it coming from? How often does it change? Can the search index be added to or does a rebuild involve search downtime.
 
-What Data
+### Security
+
+Security is a huge and ever changing topic that should be considered throughout the life of the application, there are a few questions worth asking in the early stages of the project;
+
+1. How will the Data at Rest be secured?
+2. Does all or part of the Data in Transit need to encrypted
+3. What will the Password Policy be
+4. Data backups and retention, will these be secured and how will GDPR be accommodated with the right to be forgotten? Is it possible to restore a encrypted database from a back up? This should be tried early on
+5. What ports need to open, development and other pre prod environments should have the same port lock down as prod to prevent unexpected failures.
+6. API Security and authentication, how is the application going to authenticate talk to between the various components.
+7. IP restriction - which parts of the application need to be public facing and which can be ip restricted
+8. DB Usernames - can multiple database users for different parts of the application to provide Least User Privileges. the public site just have read and limited writes for example.
+
