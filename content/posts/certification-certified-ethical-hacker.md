@@ -7,7 +7,7 @@ tags: ["cpd","certification","security"]
 
 Last week I took the [EC-Council Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) exam, this post is a quick write up of the training experience and the resources I used.
 
-I chose the [EC-Council Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) exam as it is popular choice for an overview of Cyber Security and Ethical Hacking,and is well recognised. The exam syllabus covers the definition of ethical hacking, the processes and some of the many hacking tools available.
+I chose the [EC-Council Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) exam as it is popular choice for an overview of Cyber Security and Ethical Hacking and is well recognised. The exam syllabus covers the definition of ethical hacking, the processes and some of the many hacking tools available.
 
 Its a difficult exam at four hours long with 125 questions over a broad range of topics. I reviewed a lot of material during the training and there was still a couple of questions which I had not studied for.
 
@@ -15,7 +15,7 @@ The exam is expensive with the resit cost being slightly lower, the [official re
 
 ## Resources Used ##
 
-After the course I didn't feel comfortable I had understood all the required information, I am from an Application development so I wasn't as strong with the network and protocol knowledge. So I reviewed all the course notes again creating revision notes and also used the following practice resources;
+After the course I didn't feel comfortable I had understood all the required information, I am from an Application development background so I wasn't as strong with the network and protocol knowledge. So I reviewed all the course notes again creating revision notes and also used the following practice resources;
 
 - [Udemy Practice Exams - Jason Dion ](https://www.udemy.com/ethicalhacker/learn/v4/overview)
 - [CEH v9 Practice Test - Raymond Blockman](https://www.amazon.co.uk/CEH-v9-Certified-Ethical-Practice/dp/1119252156?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duc08-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1119252156 "CEH v9 Practice Test Raymond Blockman")
