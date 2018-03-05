@@ -2,7 +2,7 @@
 title: "Azure Functions"
 date: 2018-02-28T10:02:43Z
 draft: true
-tags: ["cloud","azure","serverless]
+tags: ["cloud","azure","serverless"]
 ---
 
 [Azure Functions](https://azure.microsoft.com/en-us/services/functions/ "Azure Functions") are Functions as a Service (FAAS) which are a type of [Serverless Architecture](https://www.martinfowler.com/articles/serverless.html). More specifically Serverless Compute and allow the developer to create and run small pieces of code without the need for an application. They are a level above Platform as a Service (PAAS) where the application framework is provisioned by the cloud provider.  
