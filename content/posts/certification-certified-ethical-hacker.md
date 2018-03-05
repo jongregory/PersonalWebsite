@@ -1,21 +1,21 @@
 ---
 title: "Certification Certified Ethical Hacker"
 date: 2018-01-22T12:44:38Z
-draft: true
-tags: ["cpd","certification"]
+draft: false
+tags: ["cpd","certification","security"]
 ---
 
-Last week I took the [EC-Council Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) exam, this post is a quick write up of the experience and the resources used.
+Last week I took the [EC-Council Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) exam, this post is a quick write up of the training experience and the resources I used.
 
-I chose this exam as it is popular choice for an overview of Cyber Security and Ethical Hacking,and is well recognised. The exam syllabus covers the definition of ethical hacking, the processes and some of the tooling used.
+I chose the [EC-Council Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) exam as it is popular choice for an overview of Cyber Security and Ethical Hacking,and is well recognised. The exam syllabus covers the definition of ethical hacking, the processes and some of the many hacking tools available.
 
-Its a difficult exam at four hours long with 125 questions over a broad range of topics. I reviewed a lot of material and there was still a couple of questions which I had not studied for.
+Its a difficult exam at four hours long with 125 questions over a broad range of topics. I reviewed a lot of material during the training and there was still a couple of questions which I had not studied for.
 
-The exam is expensive with resit cost being slighlty lower, the [recommendation](https://cert.eccouncil.org/application-process-eligibility.html#ceh) is to attend official training which supplies an exam voucher. The EC-Council course material consists of 18 modules at around 150 pages each so a course really helps navigate this content and highlight the important areas. There are also course labs which are hands on with the various hacking tools covered, having an instructor on hand to resolve questions with these tools was very useful. I did my course with [QA Certified Ethical Hacker Course](https://www.qa.com/hot-topics/cyber-security/vendor-specific-courses/ec-council/ethical-hacker-v9#course-details "QA Certified Ethical Hacker Course").
+The exam is expensive with the resit cost being slightly lower, the [official recommendation](https://cert.eccouncil.org/application-process-eligibility.html#ceh) is to attend official training which supplies an exam voucher. The EC-Council course material consists of 18 modules at around 150 pages each so a course really helps navigate this content and highlight the important areas. There are also course labs which are hands on with the various hacking tools covered, having an instructor on hand to resolve questions with these tools was very useful. I did my course with [QA Certified Ethical Hacker Course](https://www.qa.com/hot-topics/cyber-security/vendor-specific-courses/ec-council/ethical-hacker-v9#course-details "QA Certified Ethical Hacker Course").
 
-## Resource Used ##
+## Resources Used ##
 
-After the course I didn't feel comfortable I had digested all the required information, so I reviewed all the course notes again into revision notes and also used the following practice resources;
+After the course I didn't feel comfortable I had understood all the required information, I am from an Application development so I wasn't as strong with the network and protocol knowledge. So I reviewed all the course notes again creating revision notes and also used the following practice resources;
 
 - [Udemy Practice Exams - Jason Dion ](https://www.udemy.com/ethicalhacker/learn/v4/overview)
 - [CEH v9 Practice Test - Raymond Blockman](https://www.amazon.co.uk/CEH-v9-Certified-Ethical-Practice/dp/1119252156?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duc08-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1119252156 "CEH v9 Practice Test Raymond Blockman")
@@ -23,7 +23,7 @@ After the course I didn't feel comfortable I had digested all the required infor
 - Cheat Sheets - we where given a good one on the course, there are quite a few on the web, these helped with the area that needed to be memorised for the exam.  
  
 
-The course material is protected pdfs which are coded to include you name, and you get three computer licences, one of which was used on the course training PC. Its is worth considering this when deciding where to host your notes and how long you will have access to that computer.
+The course material is supplied as protected pdfs which are coded to include you name,  you get three computer licences, one of which was used on the course training PC. Its is worth considering this when deciding where to host your notes and how long you will have access to that computer.
 
 ## Hints & Tips ##
 
@@ -32,8 +32,8 @@ The course material is protected pdfs which are coded to include you name, and y
 3. The question structure is different style to the Microsoft Exams I am used to, quite often in the practice tests if the questions seemed the sensible choice it was usually correct.
 4. The subject area is broad, if you are from an application background you need to learn about basic networking and CIDR rules.
 5. Do as many practice tests as you can to get comfortable with the subject range.
-6. There are a lot of hacking tools, create a summary of tool of each tool mentioned and its purpose. And learn NMap and its options as it is one for the primary hacking tools on the course.
-. In the two weeks before the exam I created a daily exercise sheet for key areas I needed to memorise, these included the Binary, Hex and Oct conversions, Acronyms to learn and tool switches and encryption types and the key size.
+6. There are a lot of hacking tools, create a summary of tool of each tool mentioned and its purpose. And learn NMap and its options as it is one for the primary hacking tools on the course. 
+7. In the two weeks before the exam I created a daily exercise sheet for key areas I needed to memorise, these included the Binary, Hex and Oct conversions, Acronyms to learn and tool switches and encryption types and the key size.
 
 
 ## Takeaways ##
