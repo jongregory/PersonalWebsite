@@ -1,6 +1,6 @@
 ---
 title: "Passing EC-Council Certified Ethical Hacker"
-date: 2018-03-05T12:44:38Z
+date: 2018-03-05T09:00:38Z
 draft: false
 tags: ["cpd","certification","security"]
 ---
