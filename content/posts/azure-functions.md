@@ -1,15 +1,15 @@
 ---
-title: "Azure Functions"
-date: 2018-02-28T10:02:43Z
-draft: true
+title: "Azure Functions Initial Experience"
+date: 2018-03-12T10:02:43Z
+draft: false
 tags: ["cloud","azure","serverless"]
 ---
 
-[Azure Functions](https://azure.microsoft.com/en-us/services/functions/ "Azure Functions") are Functions as a Service (FAAS) which are a type of [Serverless Architecture](https://www.martinfowler.com/articles/serverless.html). More specifically Serverless Compute and allow the developer to create and run small pieces of code without the need for an application. They are a level above Platform as a Service (PAAS) where the application framework is provisioned by the cloud provider.  
+[Azure Functions](https://azure.microsoft.com/en-us/services/functions/ "Azure Functions") are Functions as a Service (FAAS),  a type of [Serverless Architecture](https://www.martinfowler.com/articles/serverless.html). More specifically Serverless Compute and allow the developer to create and run small pieces of code without the need for an application. They are a level above Platform as a Service (PAAS) where the application framework is provisioned by the cloud provider.  
 
 There are many FAAS providers, this post describes a recent experience using [Azure Functions](https://azure.microsoft.com/en-us/services/functions/ "Azure Functions") and [Azure Table Storage](https://azure.microsoft.com/en-gb/services/storage/tables/ "Azure Table Storage") to implement a Serverless API.
 
-To trigger a function there are a number of options;
+Azure functions can be triggered in several ways;
 
 - Blob / Queue Storage Event
 - Azure Cosmos DB
@@ -19,15 +19,14 @@ To trigger a function there are a number of options;
 - Real-time Stream /  Real-time Bot Messaging
 
 
-This solution for this requirement was originally pitched as an API, but on closer inspection the size of the logic meant it was ideal to the webhook approach of an azure function. This reduced the required infrastructure and running costs, the [Azure Functions Pricing](https://azure.microsoft.com/en-us/pricing/details/functions/ "Azure Function Pricing") is per call model and the first million per month are free.
+The solution for this requirement was originally pitched as an API, but on closer inspection the size of the logic meant it was ideal to the HTTP / webhook approach of an azure function. This reduced the required infrastructure and running costs, the [Azure Functions Pricing](https://azure.microsoft.com/en-us/pricing/details/functions/ "Azure Function Pricing") is per call model and the first million calls per month are free.
 
 **Architecture**
 
-diagram, function code just the delivery, wrapped in unit tests
-
 The architecture approach taken for this solution was to separate out the logic and data access into class libraries and have the Azure Function code just make the initiating call. This allows the logic code to be unit tested,  and the flexibility to reuse or deliver by an alternative mechanism than a function.
 
-<Diagram>
+{{< figure src="/images/AzureFunctionArchitecture.png" title="Azure Function Architecture" >}}
+
 
 
 **Storage**
