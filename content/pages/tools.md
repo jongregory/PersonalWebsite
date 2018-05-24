@@ -90,17 +90,25 @@ draft: false
 
 [https://www.soapui.org/](https://www.soapui.org/)
 
-**Websites**
+**Websites Quality & Review**
 
 [https://www.crazyegg.com/](https://www.crazyegg.com/)
 
 [http://nibbler.silktide.com/](http://nibbler.silktide.com/)
+
+[https://silktide.com/](https://silktide.com/)
+
+[https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)
+
+[https://www.webpagetest.org/](https://www.webpagetest.org/)
 
 **UI / Design**
 
 [https://ruler.codeplex.com/releases/view/3554](https://ruler.codeplex.com/releases/view/3554)
 
 [http://pencil.evolus.vn/Default.html](http://pencil.evolus.vn/Default.html)
+
+[https://pencil.evolus.vn/Default.html](https://pencil.evolus.vn/Default.html)
 
 **JSON**
 
@@ -122,10 +130,6 @@ draft: false
 
 [https://expirebox.com/](https://expirebox.com/)
 
-**Pencil Diagrams**
-
-[https://pencil.evolus.vn/Default.html](https://pencil.evolus.vn/Default.html)
-
 **Security**
 
 [https://1.1.1.1/](https://1.1.1.1/)
@@ -140,7 +144,7 @@ draft: false
 
 [https://www.kali.org/](https://www.kali.org/)
 
-**Penetration Testing**
+**Note Taking**
 
 [https://boostnote.io/](https://boostnote.io/)
 

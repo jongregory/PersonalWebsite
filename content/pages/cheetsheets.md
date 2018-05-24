@@ -14,7 +14,12 @@ Aren't cheat sheets brilliant! Here are links to ones I have found which have h
 
 **Go Live Check List**
 
-**[https://weblaunchchecklist.com/](https://weblaunchchecklist.com/)**
+[https://weblaunchchecklist.com/](https://weblaunchchecklist.com/)
+
+**Linux**
+
+[https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
+
 
 **HTML5**
 
