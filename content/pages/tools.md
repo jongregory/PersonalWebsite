@@ -4,11 +4,29 @@ date: 2017-03-24T12:10:21Z
 draft: false
 ---
 
+**Collections**
+
+[https://dotnet.libhunt.com/](https://dotnet.libhunt.com/)
+
 **Diagrams**
 
 [https://www.draw.io/](https://www.draw.io/)
 
-[http://www.codingthearchitecture.com/2016/03/09/structurizr\_for\_net.html](http://www.codingthearchitecture.com/2016/03/09/structurizr_for_net.html)
+[https://www.structurizr.com/](https://www.structurizr.com/)
+
+[https://cloudcraft.co/](https://cloudcraft.co/)
+
+**File Transfer**
+
+[https://wetransfer.com/](https://wetransfer.com/)
+
+[https://1ty.me/](https://1ty.me/)
+
+**Productivity**
+
+[http://usepanda.com/index.html](http://usepanda.com/index.html)
+
+[https://francescocirillo.com/pages/pomodoro-technique](https://francescocirillo.com/pages/pomodoro-technique)
 
 **Analytics & Debugging**
 
@@ -22,6 +40,26 @@ draft: false
 
 [http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/](http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/)
 
+[https://www.pingdom.com/](https://www.pingdom.com/)
+
+[https://www.statuscake.com/](https://www.statuscake.com/)
+
+[https://stackify.com/prefix/](https://stackify.com/prefix/)
+
+[https://code.google.com/archive/p/elmah/](https://code.google.com/archive/p/elmah/)
+
+[https://www.red-gate.com/products/dotnet-development/ants-performance-profiler/](https://www.red-gate.com/products/dotnet-development/ants-performance-profiler/)
+
+[https://sonarwhal.com/scanner/](https://sonarwhal.com/scanner/)
+
+[https://github.com/petabridge/NBench](https://github.com/petabridge/NBench)
+
+**Operations**
+
+[https://ngrok.com/](https://ngrok.com/)
+
+[https://zeit.co/about](https://zeit.co/about)
+
 **IDE**
 
 [https://c9.io/](https://c9.io/)
@@ -30,9 +68,15 @@ draft: false
 
 [https://gist.github.com/](https://gist.github.com/)
 
+[https://github.com/migueldeicaza/gui.cs?utm_source=csharpdigest&utm_medium=email&utm_campaign=featured](https://github.com/migueldeicaza/gui.cs?utm_source=csharpdigest&utm_medium=email&utm_campaign=featured)
+
 **Database**
 
 [https://dbup.github.io/](https://dbup.github.io/)
+
+[https://github.com/CollaboratingPlatypus/PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco)
+
+[https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator](https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator)
 
 **Windows Services**
 
@@ -77,3 +121,29 @@ draft: false
 **File Sharing**
 
 [https://expirebox.com/](https://expirebox.com/)
+
+**Pencil Diagrams**
+
+[https://pencil.evolus.vn/Default.html](https://pencil.evolus.vn/Default.html)
+
+**Security**
+
+[https://1.1.1.1/](https://1.1.1.1/)
+
+[https://1ty.me/](https://1ty.me/)
+
+[https://snyk.io/](https://snyk.io/)
+
+[https://asafaweb.com/](https://asafaweb.com/)
+
+**Penetration Testing**
+
+[https://www.kali.org/](https://www.kali.org/)
+
+**Penetration Testing**
+
+[https://boostnote.io/](https://boostnote.io/)
+
+[https://jupyter.org/](https://jupyter.org/)
+
+[https://www.notion.so/](https://www.notion.so/)

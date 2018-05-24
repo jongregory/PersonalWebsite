@@ -44,6 +44,8 @@ Aren't cheat sheets brilliant! Here are links to ones I have found which have h
 
 [https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
 
+[https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet)
+
 **Sound Smart**
 
 [https://www.exceptionnotfound.net/fundamental-laws-of-software-development/](https://www.exceptionnotfound.net/fundamental-laws-of-software-development/)
@@ -53,3 +55,5 @@ Aren't cheat sheets brilliant! Here are links to ones I have found which have h
 [https://github.com/detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 
 [https://github.com/PrateekKumarSingh/CheatSheets](https://github.com/PrateekKumarSingh/CheatSheets)
+
+[http://overapi.com/](http://overapi.com/)

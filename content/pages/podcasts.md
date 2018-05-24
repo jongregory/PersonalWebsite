@@ -11,6 +11,8 @@ A collection of podcast links...
 
 [http://herdingcode.com/](http://herdingcode.com/)
 
+[http://developeronfire.com/](http://developeronfire.com/)
+
 [http://www.dadsindev.com/](http://www.dadsindev.com/)
 
 [https://itunes.apple.com/gb/podcast/thoughtworks/id881136697?mt=2](https://itunes.apple.com/gb/podcast/thoughtworks/id881136697?mt=2)
