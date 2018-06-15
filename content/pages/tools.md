@@ -60,6 +60,14 @@ draft: false
 
 [https://zeit.co/about](https://zeit.co/about)
 
+[http://dnscheck.pingdom.com/?domain=delangstraat.com](http://dnscheck.pingdom.com/?domain=delangstraat.com)
+
+[https://dnssec-debugger.verisignlabs.com/delangstraat.com](https://dnssec-debugger.verisignlabs.com/delangstraat.com)
+
+[http://dnsviz.net/d/delangstraat.com/dnssec/](http://dnsviz.net/d/delangstraat.com/dnssec/)
+
+[https://builtwith.com/](https://builtwith.com/)
+
 **IDE**
 
 [https://c9.io/](https://c9.io/)
