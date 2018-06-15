@@ -70,6 +70,10 @@ draft: false
 
 [https://github.com/migueldeicaza/gui.cs?utm_source=csharpdigest&utm_medium=email&utm_campaign=featured](https://github.com/migueldeicaza/gui.cs?utm_source=csharpdigest&utm_medium=email&utm_campaign=featured)
 
+**Command Line**
+
+[https://github.com/docopt/docopt.net](https://github.com/docopt/docopt.net)
+
 **Database**
 
 [https://dbup.github.io/](https://dbup.github.io/)
