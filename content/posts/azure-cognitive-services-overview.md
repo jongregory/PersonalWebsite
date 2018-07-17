@@ -1,7 +1,7 @@
 ---
 title: "Azure Cognitive Services Overview"
 date: 2018-04-09T20:26:07+01:00
-draft: true
+draft: false
 tags: ["cloud","azure","ai","cognitive services"]
 ---
 
