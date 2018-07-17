@@ -6,7 +6,7 @@ draft: true
 
 Microsoft Hands On AI Event - Thursday 1st March Birmingham
 
-
+I recently attended a great event in Birmingham hosted by <> where Microsoft demonstrated the Azure Cognitive Services.
 
 Email - jongregoryaiday@hotmail.com - windowcleaner10
 
