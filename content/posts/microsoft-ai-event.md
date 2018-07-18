@@ -1,12 +1,14 @@
 ---
 title: "Microsoft AI Event"
-date: 2018-03-01T09:27:27Z
+date: 2018-04-01T09:27:27Z
 draft: true
 ---
 
 Microsoft Hands On AI Event - Thursday 1st March Birmingham
 
+I recently attended a great event in Birmingham hosted by <> where Microsoft demonstrated the Azure Cognitive Services.
 
+This was a hands on event with a chance to have a go with each of the available Cognitive Services.
 
 Email - jongregoryaiday@hotmail.com - windowcleaner10
 
