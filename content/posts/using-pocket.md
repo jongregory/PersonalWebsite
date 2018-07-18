@@ -2,6 +2,7 @@
 title: "Staying up to Date with Pocket"
 date: 2018-05-14T09:27:27Z
 draft: false
+tags: ["productivity","tools"]
 ---
 
 I am really interested in productivity tools and techniques that help me make the best use of my time. 
