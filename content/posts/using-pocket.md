@@ -15,7 +15,7 @@ I started looking for a solution to this and decided upon [Pocket](https://getpo
 
 The second problem is where I have found the real benefit, because [Pocket](https://getpocket.com/) has a chrome plugin and mobile apps I can save urls to my queue quickly from any of my devices. Pocket appears as a share option in most of the android apps, or if you copy a url and then open the Pocket app it prompts you to save it to your queue.
 
-{{< figure src="/images/PocketMobileScreen.png" caption="Mobile Save Screen">}}
+{{< figure src="/images/PocketMobileScreen.jpeg" caption="Mobile Save Screen">}}
 
 
 The articles are placed in a queue in the pocket website where I can review on a lunchtime, and chose to archive for future reference or delete.  
