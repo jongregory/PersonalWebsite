@@ -1,6 +1,5 @@
 ---
 title: "Microsoft AI Event"
-draft: true
 date: 2018-03-02T09:27:27Z
 draft: false
 ---
