@@ -40,6 +40,7 @@ Aren't cheat sheets brilliant! Here are links to ones I have found which have h
 **GIT**
 
 [https://www.git-tower.com/blog/git-cheat-sheet/](https://www.git-tower.com/blog/git-cheat-sheet/)
+[https://dev.to/rodeghiero_/git-cheatsheet-2imn](https://dev.to/rodeghiero_/git-cheatsheet-2imn)
 
 **Regular Expressions**
 
