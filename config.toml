@@ -43,6 +43,11 @@ pygmentsUseClasses=true
     url = "/pages/"
     name = "Pages"
     weight = 4
+	
+[[menu.main]]
+    url = "/OlderPosts/"
+    name = "Older Posts"
+    weight = 5
 
 
 
@@ -51,7 +56,7 @@ pygmentsUseClasses=true
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:email@jongregory.net"
+    url = "mailto:jon.gregory@live.co.uk"
     name = "envelope-o"
     weight = 1
 
