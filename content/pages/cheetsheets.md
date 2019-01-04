@@ -12,6 +12,8 @@ Aren't cheat sheets brilliant! Here are links to ones I have found which have h
 
 [https://www.adtrak.co.uk/wp-content/uploads/the\_ultimate\_css\_selectors\_cheatsheet.pdf](https://www.adtrak.co.uk/wp-content/uploads/the_ultimate_css_selectors_cheatsheet.pdf "https://www.adtrak.co.uk/wp-content/uploads/the_ultimate_css_selectors_cheatsheet.pdf")
 
+[https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
+
 **Go Live Check List**
 
 [https://weblaunchchecklist.com/](https://weblaunchchecklist.com/)
