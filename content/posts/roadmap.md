@@ -17,13 +17,13 @@ draft: true
 
 **2018 - Catch up**
 
-1. June - Brown bag challenge
+1. June - Brown bag challenge (s)
 2. July - Blog Tips
 3. August - Custom vision.ai
-4. September - Cognitive Search
-5. October - Bot Framework
+4. September - Cognitive Search (s)
+5. October - Bot Framework (s)
 6. November - VideoIndexer.ai
-7. December - Azure devops - yaml build link to SonarQube 
+7. December - Azure devops - yaml build link to SonarQube (s)
 
 **2019 - Plan**
 
