@@ -17,19 +17,19 @@ draft: true
 
 **2018 - Catch up**
 
-1. June - 
-2. July - 
-3. August - 
+1. June - Brown bag challenge
+2. July - Blog Tips
+3. August - Custom vision.ai
 4. September - Cognitive Search
 5. October - Bot Framework
 6. November - VideoIndexer.ai
-7. December - Cognitive Websites
+7. December - Azure devops - yaml build link to SonarQube 
 
 **2019 - Plan**
 
-1. Jan - Certification Plan
-2. Feb - Machine Learning
-3. Mar - 
+1. Jan - Certification Plan / Pace of change
+2. Feb - Cognitive Websites 
+3. Mar - Machine Learning
 
 **Drafts - Keep or Bin?**
 drafts\building-a-bot-azure.md
@@ -47,15 +47,16 @@ Security Certifications
 Cloud ai/ml offerings - azure, Google, aws - do as wiki at work?
 Side project series
 Importance of certifications
-Brown bag challenge
+
 Understanding data science series 
 Skills required as a software architect?
 Custom vision.ai
 Python and vision recognition-video tip
-Azure devops - yaml build link to SonarQube 
 Speech to text / vui?
 Couple of small ones for gap fill last year
 Code review?
+Logic Apps and the uses cases
+Serverless Architectures
 
 
 
