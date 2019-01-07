@@ -5,6 +5,8 @@ draft: true
 tags: ["azure","azure devops","yaml"]
 ---
 
+https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started-designer?view=vsts&tabs=new-nav
+
 https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Extension+for+VSTS-TFS
 
 http://www.codewrecks.com/blog/index.php/2018/10/10/azure-devops-pipelines-and-sonar-cloud-gives-free-analysis-to-your-os-project/
