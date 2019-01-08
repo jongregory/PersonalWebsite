@@ -18,7 +18,7 @@ draft: true
 **2018 - Catch up**
 
 1. June - Brown bag challenge (s)
-2. July - Blog Tips
+2. July - Blog Tips (s)
 3. August - Custom vision.ai
 4. September - Cognitive Search (s)
 5. October - Bot Framework (s)
