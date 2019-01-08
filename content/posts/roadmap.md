@@ -19,7 +19,7 @@ draft: true
 
 1. June - Brown bag challenge (s)
 2. July - Blog Tips (s)
-3. August - Custom vision.ai
+3. August - Custom vision.ai & Computer Vision (s)
 4. September - Cognitive Search (s)
 5. October - Bot Framework (s)
 6. November - VideoIndexer.ai
