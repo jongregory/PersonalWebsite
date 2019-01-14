@@ -1,10 +1,13 @@
 ---
-title: "Azure Computer and Custom Vision Ai"
+title: "Azure Custom Vision Services"
 date: 2018-08-06T13:54:23Z
-draft: true
+draft: false
+tags: ["azure","cognitive services","vision"]
 ---
 
 **Custom Vision**
+
+Azure Custom Vision is a different service to Azure Computer Vision.
 
 Custom Vision focuses on object detection & image classification using a custom built model, this means training images need to be prepared and uploaded.
 

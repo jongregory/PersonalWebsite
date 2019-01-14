@@ -1,7 +1,7 @@
 ---
 title: "Video Indexer"
 date: 2018-11-14T13:55:12Z
-draft: true
+draft: false
 tags: ["azure","ai","cognitive services"]
 ---
 
