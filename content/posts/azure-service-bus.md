@@ -1,6 +1,6 @@
 ---
 title: "Azure Service Bus"
-date: 2019-01-23T07:14:46Z
+date: 2019-01-31T07:14:46Z
 draft: true
 ---
 
@@ -11,8 +11,6 @@ draft: true
 The [Documentation]() is extensive but I found it much easier to dive into the [samples](https://github.com/Azure/azure-service-bus), if you familiar with message buses it easy to pick up, and if your new to the subject the documentation can support the concepts. There are samples for .Net Core, .Net Standard and .Net Framework each of which use different NuGet libraries for the SDK Code, the Azure Portal setup is the same for each. 
 
 ## Key Concepts ##
-
-TODO - Expand with the core concepts and reference there are many more
 
 [Queues](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions#queues) are the base of the messaging application with messages being enqueued by one process and then dequeued by another, multiple listeners can share a queue but a message will only be processed by one listener so this would only provide processing scaling and the listeners should all process the message identically.  
 
@@ -44,4 +42,10 @@ TODO - Expand with the core concepts and reference there are many more
 
 ## Considerations ##
 
-TODO -  Ordering of messages, everything is event driven so enqueuing messages quickly may cause them to hit the queues in different order. Same with dequeueing, need to consider number of listeners, using a loop or sessions.
+Azure Service Bus is driven cloud based so reliant on HTTP Requests, so the ordering of the messages reaching a queue when en-queueing in quick succession may not be the same as the order of calls in the code.
+
+When de-queueing messages, if ordering is important then the need to consider the number of listeners. If there is more than one then the messages will be processed on a first come first served basis. 
+
+Transactions - there is no distributed transaction between the service bus and a database so you either get at-least-once or at-most-once delivery depending on whether you close the DB transaction first or mark the message as processed first. This means you need to implement everything in an idempotent manner on the consumer side (if using at-least-once - with at-most-once you accept loss of data). [This Stack Overflow](https://stackoverflow.com/questions/15556084/azure-service-bus-and-transactions) question explains the concept in more detail. This should not be confused with the concept of transactions within azure service bus .
+
+Service Bus Queues are different to storage queues, although similar in name  - there is a a summary article [here](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted)
