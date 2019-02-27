@@ -69,3 +69,7 @@ Aren't cheat sheets brilliant! Here are links to ones I have found which have h
 **Markdown**
 
 [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+**Devops-ish**
+
+[https://royal.pingdom.com/a-handy-uptime-and-downtime-conversion-cheat-sheet/](https://royal.pingdom.com/a-handy-uptime-and-downtime-conversion-cheat-sheet/)
