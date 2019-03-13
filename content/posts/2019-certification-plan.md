@@ -1,7 +1,7 @@
 ---
 title: "2019 Certification Plan"
 date: 2019-02-28T14:01:42Z
-draft: true
+draft: false
 ---
 
 2018 wasn't a successful year for my CPD certifications , I did do a lot of work around the Azure Cognitive Services but no exams, so 2019 is a reboot to build up my certifications.
