@@ -31,6 +31,10 @@ Aren't cheat sheets brilliant! Here are links to ones I have found which have h
 
 [https://www.cheatography.com/davechild/cheat-sheets/javascript/](https://www.cheatography.com/davechild/cheat-sheets/javascript/)
 
+**Python**
+
+[https://realpython.com/python-cheat-sheet/](https://realpython.com/python-cheat-sheet/)
+
 **CSS**
 
 [https://www.toptal.com/css/css-cheat-sheet](https://www.toptal.com/css/css-cheat-sheet)
@@ -47,6 +51,7 @@ Aren't cheat sheets brilliant! Here are links to ones I have found which have h
 **Regular Expressions**
 
 [https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
+[https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1](https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1)
 
 **Security**
 
@@ -73,3 +78,16 @@ Aren't cheat sheets brilliant! Here are links to ones I have found which have h
 **Devops-ish**
 
 [https://royal.pingdom.com/a-handy-uptime-and-downtime-conversion-cheat-sheet/](https://royal.pingdom.com/a-handy-uptime-and-downtime-conversion-cheat-sheet/)
+
+**AI / Machine Learning**
+
+[https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+[https://github.com/VidyasagarMSC/Awesome-AI/blob/master/cheatsheets/machinelearning/machine-learning-cheat-sheet-sas.png](https://github.com/VidyasagarMSC/Awesome-AI/blob/master/cheatsheets/machinelearning/machine-learning-cheat-sheet-sas.png)
+[https://ml-cheatsheet.readthedocs.io/en/latest/index.html](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+
+**Data Science**
+
+[https://github.com/abhat222/Data-Science--Cheat-Sheet](Data Science Collection)
+
+**AWS**
+[https://tutorialsdojo.com/aws-cheat-sheets/](https://tutorialsdojo.com/aws-cheat-sheets/)

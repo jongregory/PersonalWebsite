@@ -55,6 +55,8 @@ A collection of podcast links...
 
 [https://spec.fm/podcasts/developer-tea](https://spec.fm/podcasts/developer-tea)
 
+[https://www.advancinganalytics.co.uk/data-science-in-production](https://www.advancinganalytics.co.uk/data-science-in-production)
+
 
 
 
