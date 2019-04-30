@@ -15,3 +15,5 @@ A collection of training resource links...
 [https://acloud.guru/](https://acloud.guru/)
 
 [https://learning.oreilly.com](https://learning.oreilly.com)
+
+[IT DoJo YouTube Channel](https://www.youtube.com/channel/UCwUkAunxT1BNbmKVOSEoqYA)

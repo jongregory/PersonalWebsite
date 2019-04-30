@@ -120,6 +120,8 @@ draft: false
 
 [https://www.webpagetest.org/](https://www.webpagetest.org/)
 
+[https://xenus-link-sleuth.en.softonic.com/](https://xenus-link-sleuth.en.softonic.com/ - Broken link checker)
+
 
 **UI / Design**
 
@@ -158,6 +160,8 @@ draft: false
 [https://snyk.io/](https://snyk.io/)
 
 [https://asafaweb.com/](https://asafaweb.com/)
+
+[https://www.zaproxy.org/](https://www.zaproxy.org/ ZAP OWASP)
 
 **Penetration Testing**
 

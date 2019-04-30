@@ -21,7 +21,7 @@ Aren't cheat sheets brilliant! Here are links to ones I have found which have h
 **Linux**
 
 [https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
-
+[https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
 
 **HTML5**
 
@@ -78,6 +78,10 @@ Aren't cheat sheets brilliant! Here are links to ones I have found which have h
 **Devops-ish**
 
 [https://royal.pingdom.com/a-handy-uptime-and-downtime-conversion-cheat-sheet/](https://royal.pingdom.com/a-handy-uptime-and-downtime-conversion-cheat-sheet/)
+
+[https://networkproguide.com/wp-content/uploads/CIDR-IPv4-Subnet-Mask-Cheat-Sheet.png](https://networkproguide.com/wp-content/uploads/CIDR-IPv4-Subnet-Mask-Cheat-Sheet.png)
+
+
 
 **AI / Machine Learning**
 
