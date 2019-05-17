@@ -28,6 +28,8 @@ draft: false
 
 [https://francescocirillo.com/pages/pomodoro-technique](https://francescocirillo.com/pages/pomodoro-technique)
 
+[https://www.theurlist.com/](https://www.theurlist.com/ - share lists of links, ideal after a talk)
+
 **Analytics & Debugging**
 
 [http://getglimpse.com/](http://getglimpse.com/)
