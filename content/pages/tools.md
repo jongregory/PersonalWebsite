@@ -96,9 +96,11 @@ draft: false
 
 [https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator](https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator)
 
-**Windows Services**
+**Scheduled Services**
 
 [http://topshelf-project.com/](http://topshelf-project.com/)
+
+[https://www.hangfire.io/](https://www.hangfire.io/)
 
 **Web Services**
 
@@ -123,6 +125,8 @@ draft: false
 [https://www.webpagetest.org/](https://www.webpagetest.org/)
 
 [https://xenus-link-sleuth.en.softonic.com/](https://xenus-link-sleuth.en.softonic.com/ - Broken link checker)
+
+[https://securityheaders.com](https://securityheaders.com)
 
 
 **UI / Design**
@@ -164,6 +168,8 @@ draft: false
 [https://asafaweb.com/](https://asafaweb.com/)
 
 [https://www.zaproxy.org/](https://www.zaproxy.org/ ZAP OWASP)
+
+[https://github.com/Microsoft/AttackSurfaceAnalyzer](MS Attack Surface Analyser - OS checker)
 
 **Penetration Testing**
 
