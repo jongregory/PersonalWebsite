@@ -27,9 +27,16 @@ draft: true
 
 **2019 - Plan**
 
-1. Jan - Certification Plan / Pace of change
-2. Feb - Cognitive Websites 
-3. Mar - Machine Learning
+Mar - Python Azure Functions
+Apr - Cognitive  Website
+May - Logic Apps Automation
+Jun - AZ102
+Jul - AZ300 & AZ301
+Aug - Automation with IFTTT and Azure Functions / Logic Apps
+Sept - AI100 ?
+Oct - Certification / Pace of Change?
+Nov - Machine Learning
+Dec - 
 
 **Drafts - Keep or Bin?**
 drafts\building-a-bot-azure.md
