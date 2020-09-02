@@ -5,6 +5,8 @@ dontshowthedate: true
 ---
  
 Here are my archived posts by year, alternatively you can view by [tags](/tags/)
+
+[2018](/olderposts/2018/)
  
 [2017](/olderposts/2017/)
 
