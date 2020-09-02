@@ -63,6 +63,19 @@ drafts\simple-powershell-deploy.md (June 2018)
 
 **Ideas**
 
+Communication Contract (wiki)
+
+Redis (Streams) / Kafka (wiki)
+
+Development Code Analysis & Productivity Tooling Review (WIP) (Wiki)
+
+Cloud Native Development (Best Practive)
+
+Proof of Concepts / Prototyping -  Aims, Guidance, documentations
+
+
+Data Mesh (O'reilly / thoughtworks)
+
 Series - AWS
 Series - Google Cloud
 
@@ -78,9 +91,45 @@ Custom vision.ai
 Python and vision recognition-video tip
 Speech to text / vui?
 Couple of small ones for gap fill last year
-Code review?
+Code review? ( email sent at resonate for tooling?)
 Logic Apps and the uses cases
 Serverless Architectures
+
+contracts / connascence? styles for distributed architectures talk. http://docs.pact.io
+
+fitness functions? Can I build some?
+
+Rest - HATEOAS - Richardsons restful maturity scale
+
+ADR - Architectural Descision Log - How its helped me on TMV?
+
+Websockets vs SSE
+
+saga - transactions in distributed architecture - workflow patterns - stateless/stateful - best way to handle transactions across microservices is don't! sort out the granularity - vs data replication using a replicated cache to reduce the traffic
+
+Event Streams == Truth - Use events for single source of truth, good to achieve CQRS
+
+Performing well in interviews?
+
+Architectural Design Patterns / Cloud Design Patterns
+
+Star Schemas vs Data Lakes - Analytics
+
+https://developertoarchitect.com/lessons/ (resource / tools)
+
+
+Sayings;
+
+Trade offs
+Smearing business domain across architecture
+Product vs Project Thinking
+Architecture Quantum
+
+
+
+
+
+
 
 
 
