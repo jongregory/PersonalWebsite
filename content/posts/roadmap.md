@@ -17,32 +17,49 @@ draft: true
 
 **2018 - Catch up**
 
-1. June - Brown bag challenge (s)
+1. <s>June - Brown bag challenge (s)
 2. July - Blog Tips (s)
 3. August - Custom vision.ai & Computer Vision (s)
 4. September - Cognitive Search (s)
 5. October - Bot Framework (s)
 6. November - VideoIndexer.ai
-7. December - Azure devops - yaml build link to SonarQube (s)
+7. December - Azure devops - yaml build link to SonarQube (s)</s>
 
-**2019 - Plan**
+**2019 - Catch Up**
 
-Mar - Python Azure Functions
+Jan - <s>Azure Service Bus
+Feb - 2019 Certification Plan</s>
+Mar - Python Azure Functions (Draft Exists)
 Apr - Cognitive  Website
-May - Logic Apps Automation
+May - Logic Apps Automation (Draft Exists)
 Jun - AZ102
 Jul - AZ300 & AZ301
 Aug - Automation with IFTTT and Azure Functions / Logic Apps
-Sept - AI100 ?
+Sept - AI100 
 Oct - Certification / Pace of Change?
-Nov - Machine Learning
-Dec - 
+Nov - Move to design role (Swap with aug?)
+Dec - 2019 Review
+
+**2020 - Catch Up**
+
+Jan - 2020 Certification Plan
+Feb - AWS Cloud Pracitioner
+Mar - AWS Solution Architecture Assoc
+Apr - Lockdown?
+May - Architecture verses design
+Jun -Architecture Roles
+Jul - Streaming Architectures
+Aug - Event Driven Microservices
+Sep - O'Reilly Talks
+Oct - Diagram guidance (Nick wiki page)
+Nov - Specilist vs Generalist
+Dec - 2020 Review
 
 **Drafts - Keep or Bin?**
-drafts\building-a-bot-azure.md
+drafts\building-a-bot-azure.md (Oct 2018)
 drafts\checklist-pentesting.md
 drafts\checklist-project-stratergies.md
-drafts\simple-powershell-deploy.md
+drafts\simple-powershell-deploy.md (June 2018)
 
 **Ideas**
 
