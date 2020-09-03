@@ -27,33 +27,33 @@ draft: true
 
 **2019 - Catch Up**
 
-Jan - <s>Azure Service Bus
-Feb - 2019 Certification Plan</s>
-Mar - Python Azure Functions (Draft Exists)
-Apr - Cognitive  Website
-May - Logic Apps Automation (Draft Exists)
-Jun - AZ102
-Jul - AZ300 & AZ301
-Aug - Automation with IFTTT and Azure Functions / Logic Apps
-Sept - AI100 
-Oct - Certification / Pace of Change?
-Nov - Move to design role (Swap with aug?)
-Dec - 2019 Review
+1. Jan - <s>Azure Service Bus
+1. Feb - 2019 Certification Plan</s>
+1. Mar - Python Azure Functions (Draft Exists)
+1. Apr - Cognitive  Website
+1. May - Logic Apps Automation (Draft Exists)
+1. Jun - AZ102
+1. Jul - AZ300 & AZ301
+1. Aug - Move to design role
+1. Sept - AI100 
+1. Oct - Certification / Pace of Change?
+1. Nov -  ??
+1. Dec - 2019 Review
 
 **2020 - Catch Up**
 
-Jan - 2020 Certification Plan
-Feb - AWS Cloud Pracitioner
-Mar - AWS Solution Architecture Assoc
-Apr - Lockdown?
-May - Architecture verses design
-Jun -Architecture Roles
-Jul - Streaming Architectures
-Aug - Event Driven Microservices
-Sep - O'Reilly Talks
-Oct - Diagram guidance (Nick wiki page)
-Nov - Specilist vs Generalist
-Dec - 2020 Review
+1. Jan - 2020 Certification Plan
+1. Feb - AWS Cloud Pracitioner
+1. Mar - AWS Solution Architecture Assoc
+1. Apr - Lockdown?
+1. May - Architecture verses design
+1. Jun -Architecture Roles
+1. Jul - Streaming Architectures
+1. Aug - Event Driven Microservices
+1. Sep - O'Reilly Talks
+1. Oct - Diagram guidance (Nick wiki page)
+1. Nov - Specilist vs Generalist
+1. Dec - 2020 Review
 
 **Drafts - Keep or Bin?**
 drafts\building-a-bot-azure.md (Oct 2018)

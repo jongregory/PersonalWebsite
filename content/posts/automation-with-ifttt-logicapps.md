@@ -1,6 +1,6 @@
 ---
 title: "Automation With Ifttt Logicapps"
-date: 2019-06-24T11:37:16+01:00
+date: 2019-05-24T11:37:16+01:00
 draft: true
 tags: [azure,ifttt,automation]
 ---
