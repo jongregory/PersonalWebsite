@@ -28,16 +28,16 @@ draft: true
 **2019 - Catch Up**
 
 1. Jan - <s>Azure Service Bus
-1. Feb - 2019 Certification Plan</s>
+1. Feb - 2019 Certification Plan
 1. Mar - Python Azure Functions (Draft Exists)
-1. Apr - Cognitive  Website
-1. May - Logic Apps Automation (Draft Exists)
+1. Apr - Logic Apps Automation (Draft Exists)</s>
+1. May - 
 1. Jun - AZ102
 1. Jul - AZ300 & AZ301
 1. Aug - Move to design role
 1. Sept - AI100 
 1. Oct - Certification / Pace of Change?
-1. Nov -  ??
+1. Nov -  The high cost of the quick fix
 1. Dec - 2019 Review
 
 **2020 - Catch Up**
@@ -51,7 +51,7 @@ draft: true
 1. Jul - Streaming Architectures
 1. Aug - Event Driven Microservices
 1. Sep - O'Reilly Talks
-1. Oct - Diagram guidance (Nick wiki page)
+1. Oct - Diagram guidance (Nick wiki page) / Diagrams as Code?
 1. Nov - Specilist vs Generalist
 1. Dec - 2020 Review
 
@@ -62,6 +62,12 @@ drafts\checklist-project-stratergies.md
 drafts\simple-powershell-deploy.md (June 2018)
 
 **Ideas**
+
+Protocols - WebSub,WebSockets, MQTT, SSE
+
+Emergent Design / Emergent Architecture
+
+Agile Architect / Agile Architecture
 
 Communication Contract (wiki)
 
@@ -124,6 +130,7 @@ Trade offs
 Smearing business domain across architecture
 Product vs Project Thinking
 Architecture Quantum
+architecture du jour
 
 
 
